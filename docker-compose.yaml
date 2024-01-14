@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: amrendra0918/todo-application
+    image: amrendra0918/todo-application:latest
     ports:
       - "8000:8000"
